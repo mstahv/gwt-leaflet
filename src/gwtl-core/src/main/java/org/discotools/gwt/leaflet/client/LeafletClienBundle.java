@@ -18,4 +18,7 @@ public interface LeafletClienBundle extends ClientBundle {
     @Source("images/layers.png")
     ImageResource layers();
 
+    @Source("images/layers-2x.png")
+    ImageResource layers2x();
+
 }
